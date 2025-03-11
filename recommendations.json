@@ -1,0 +1,32 @@
+[
+    {
+        "Menu Item": "Burger",
+        "Total_Orders": 17,
+        "Avg_Rating": 2.764705882352941,
+        "Avg_Recommendation_Score": 0.5352941176470588
+    },
+    {
+        "Menu Item": "Pizza",
+        "Total_Orders": 12,
+        "Avg_Rating": 2.4166666666666665,
+        "Avg_Recommendation_Score": 0.6091666666666666
+    },
+    {
+        "Menu Item": "Chocolate Lava Cake",
+        "Total_Orders": 10,
+        "Avg_Rating": 3.2,
+        "Avg_Recommendation_Score": 0.5189999999999999
+    },
+    {
+        "Menu Item": "Donut",
+        "Total_Orders": 7,
+        "Avg_Rating": 3.4285714285714284,
+        "Avg_Recommendation_Score": 0.5285714285714286
+    },
+    {
+        "Menu Item": "Croissant",
+        "Total_Orders": 4,
+        "Avg_Rating": 3.5,
+        "Avg_Recommendation_Score": 0.41000000000000003
+    }
+]
